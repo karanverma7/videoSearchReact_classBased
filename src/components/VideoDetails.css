@@ -1,0 +1,15 @@
+.video-info {
+    margin: 30px;
+    margin-top: 10px;
+    width: 740px;
+}
+
+.video-info p, h5 {
+    margin-top: -5px;
+}
+
+@media only screen and (max-width: 800px) {
+    .video-info {
+      width: 90%;
+    }
+}
